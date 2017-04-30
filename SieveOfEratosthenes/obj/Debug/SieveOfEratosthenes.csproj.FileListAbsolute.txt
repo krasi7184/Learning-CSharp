@@ -1,0 +1,6 @@
+D:\C#\First\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe.config
+D:\C#\First\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe
+D:\C#\First\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.pdb
+D:\C#\First\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.csprojResolveAssemblyReference.cache
+D:\C#\First\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.exe
+D:\C#\First\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.pdb

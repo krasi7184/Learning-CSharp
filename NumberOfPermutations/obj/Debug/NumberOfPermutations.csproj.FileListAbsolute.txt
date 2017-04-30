@@ -1,0 +1,6 @@
+D:\C#\First\NumberOfPermutations\bin\Debug\NumberOfPermutations.exe.config
+D:\C#\First\NumberOfPermutations\bin\Debug\NumberOfPermutations.exe
+D:\C#\First\NumberOfPermutations\bin\Debug\NumberOfPermutations.pdb
+D:\C#\First\NumberOfPermutations\obj\Debug\NumberOfPermutations.csprojResolveAssemblyReference.cache
+D:\C#\First\NumberOfPermutations\obj\Debug\NumberOfPermutations.exe
+D:\C#\First\NumberOfPermutations\obj\Debug\NumberOfPermutations.pdb
