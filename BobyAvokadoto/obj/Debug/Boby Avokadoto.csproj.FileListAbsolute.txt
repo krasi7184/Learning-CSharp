@@ -1,0 +1,12 @@
+D:\C#\First\Data_Types\bin\Debug\Data_Types.exe.config
+D:\C#\First\Data_Types\bin\Debug\Data_Types.exe
+D:\C#\First\Data_Types\bin\Debug\Data_Types.pdb
+D:\C#\First\Data_Types\obj\Debug\Data_Types.exe
+D:\C#\First\Data_Types\obj\Debug\Data_Types.pdb
+D:\C#\First\Data_Types\obj\Debug\Boby Avokadoto.csprojResolveAssemblyReference.cache
+D:\C#\CS Fundamentals\Data_Types\bin\Debug\Data_Types.exe.config
+D:\C#\CS Fundamentals\Data_Types\obj\Debug\Data_Types.exe
+D:\C#\CS Fundamentals\Data_Types\obj\Debug\Data_Types.pdb
+D:\C#\CS Fundamentals\BobyAvokadoto\bin\Debug\Data_Types.exe.config
+D:\C#\CS Fundamentals\BobyAvokadoto\obj\Debug\Data_Types.exe
+D:\C#\CS Fundamentals\BobyAvokadoto\obj\Debug\Data_Types.pdb

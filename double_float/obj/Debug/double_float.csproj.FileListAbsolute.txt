@@ -1,6 +1,0 @@
-D:\C#\First\double_float\bin\Debug\double_float.exe.config
-D:\C#\First\double_float\bin\Debug\double_float.exe
-D:\C#\First\double_float\bin\Debug\double_float.pdb
-D:\C#\First\double_float\obj\Debug\double_float.exe
-D:\C#\First\double_float\obj\Debug\double_float.pdb
-D:\C#\First\double_float\obj\Debug\double_float.csprojResolveAssemblyReference.cache

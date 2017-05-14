@@ -1,0 +1,6 @@
+D:\C#\CS Fundamentals\SubsetsOfSet\bin\Debug\SubsetsOfSet.exe.config
+D:\C#\CS Fundamentals\SubsetsOfSet\bin\Debug\SubsetsOfSet.exe
+D:\C#\CS Fundamentals\SubsetsOfSet\bin\Debug\SubsetsOfSet.pdb
+D:\C#\CS Fundamentals\SubsetsOfSet\obj\Debug\SubsetsOfSet.csprojResolveAssemblyReference.cache
+D:\C#\CS Fundamentals\SubsetsOfSet\obj\Debug\SubsetsOfSet.exe
+D:\C#\CS Fundamentals\SubsetsOfSet\obj\Debug\SubsetsOfSet.pdb

@@ -1,0 +1,6 @@
+D:\C#\CS Fundamentals\Variations_2\bin\Debug\Variations_2.exe.config
+D:\C#\CS Fundamentals\Variations_2\obj\Debug\Variations_2.csprojResolveAssemblyReference.cache
+D:\C#\CS Fundamentals\Variations_2\bin\Debug\Variations_2.exe
+D:\C#\CS Fundamentals\Variations_2\bin\Debug\Variations_2.pdb
+D:\C#\CS Fundamentals\Variations_2\obj\Debug\Variations_2.exe
+D:\C#\CS Fundamentals\Variations_2\obj\Debug\Variations_2.pdb

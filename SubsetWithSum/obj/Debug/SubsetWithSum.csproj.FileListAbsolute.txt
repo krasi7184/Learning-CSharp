@@ -1,0 +1,12 @@
+D:\C#\First\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\C#\First\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\C#\First\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\C#\First\ConsoleApplication3\obj\Debug\SubsetWithSum.csprojResolveAssemblyReference.cache
+D:\C#\First\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\C#\First\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+D:\C#\CS Fundamentals\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\C#\CS Fundamentals\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\C#\CS Fundamentals\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+D:\C#\CS Fundamentals\SubsetWithSum\bin\Debug\ConsoleApplication3.exe.config
+D:\C#\CS Fundamentals\SubsetWithSum\obj\Debug\ConsoleApplication3.exe
+D:\C#\CS Fundamentals\SubsetWithSum\obj\Debug\ConsoleApplication3.pdb

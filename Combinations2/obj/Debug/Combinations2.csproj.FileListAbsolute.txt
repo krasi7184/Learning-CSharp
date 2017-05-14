@@ -1,0 +1,6 @@
+D:\C#\CS Fundamentals\Combinations2\bin\Debug\Combinations2.exe.config
+D:\C#\CS Fundamentals\Combinations2\bin\Debug\Combinations2.exe
+D:\C#\CS Fundamentals\Combinations2\bin\Debug\Combinations2.pdb
+D:\C#\CS Fundamentals\Combinations2\obj\Debug\Combinations2.csprojResolveAssemblyReference.cache
+D:\C#\CS Fundamentals\Combinations2\obj\Debug\Combinations2.exe
+D:\C#\CS Fundamentals\Combinations2\obj\Debug\Combinations2.pdb

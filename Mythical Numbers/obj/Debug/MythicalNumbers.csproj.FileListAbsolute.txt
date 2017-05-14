@@ -1,0 +1,5 @@
+D:\C#\CS Fundamentals\Mythical Numbers\bin\Debug\Mythical Numbers.exe.config
+D:\C#\CS Fundamentals\Mythical Numbers\bin\Debug\Mythical Numbers.exe
+D:\C#\CS Fundamentals\Mythical Numbers\bin\Debug\Mythical Numbers.pdb
+D:\C#\CS Fundamentals\Mythical Numbers\obj\Debug\Mythical Numbers.exe
+D:\C#\CS Fundamentals\Mythical Numbers\obj\Debug\Mythical Numbers.pdb

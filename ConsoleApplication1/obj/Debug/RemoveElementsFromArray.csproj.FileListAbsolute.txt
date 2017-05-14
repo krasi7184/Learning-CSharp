@@ -1,3 +1,0 @@
-D:\C#\First\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-D:\C#\First\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-D:\C#\First\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

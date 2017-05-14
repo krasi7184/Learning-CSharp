@@ -1,0 +1,12 @@
+D:\C#\First\First\obj\Debug\NumberOfVariations.csprojResolveAssemblyReference.cache
+D:\C#\First\First\obj\Debug\First.exe
+D:\C#\First\First\obj\Debug\First.pdb
+D:\C#\First\First\bin\Debug\First.exe.config
+D:\C#\First\First\bin\Debug\First.exe
+D:\C#\First\First\bin\Debug\First.pdb
+D:\C#\CS Fundamentals\First\bin\Debug\First.exe.config
+D:\C#\CS Fundamentals\First\obj\Debug\First.exe
+D:\C#\CS Fundamentals\First\obj\Debug\First.pdb
+D:\C#\CS Fundamentals\NumberOfVariations\bin\Debug\First.exe.config
+D:\C#\CS Fundamentals\NumberOfVariations\obj\Debug\First.exe
+D:\C#\CS Fundamentals\NumberOfVariations\obj\Debug\First.pdb

@@ -1,0 +1,6 @@
+D:\C#\CS Fundamentals\Posle\bin\Debug\Posle.exe.config
+D:\C#\CS Fundamentals\Posle\obj\Debug\Posle.exe
+D:\C#\CS Fundamentals\Posle\obj\Debug\Posle.pdb
+D:\C#\CS Fundamentals\BobiAvokadoto_2\bin\Debug\Posle.exe.config
+D:\C#\CS Fundamentals\BobiAvokadoto_2\obj\Debug\Posle.exe
+D:\C#\CS Fundamentals\BobiAvokadoto_2\obj\Debug\Posle.pdb

@@ -1,5 +1,0 @@
-D:\C#\First\novproekt\bin\Debug\novproekt.exe.config
-D:\C#\First\novproekt\bin\Debug\novproekt.exe
-D:\C#\First\novproekt\bin\Debug\novproekt.pdb
-D:\C#\First\novproekt\obj\Debug\novproekt.exe
-D:\C#\First\novproekt\obj\Debug\novproekt.pdb

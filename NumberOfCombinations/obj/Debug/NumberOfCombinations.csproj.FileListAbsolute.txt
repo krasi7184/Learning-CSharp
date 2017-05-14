@@ -1,0 +1,9 @@
+D:\C#\First\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\C#\First\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\C#\First\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\C#\First\ConsoleApplication2\obj\Debug\NumberOfCombinations.csprojResolveAssemblyReference.cache
+D:\C#\First\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\C#\First\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+D:\C#\CS Fundamentals\NumberOfCombinations\bin\Debug\ConsoleApplication2.exe.config
+D:\C#\CS Fundamentals\NumberOfCombinations\obj\Debug\ConsoleApplication2.exe
+D:\C#\CS Fundamentals\NumberOfCombinations\obj\Debug\ConsoleApplication2.pdb

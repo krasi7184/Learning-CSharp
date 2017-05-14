@@ -1,6 +1,0 @@
-D:\C#\First\Posle\bin\Debug\Posle.exe.config
-D:\C#\First\Posle\bin\Debug\Posle.exe
-D:\C#\First\Posle\bin\Debug\Posle.pdb
-D:\C#\First\Posle\obj\Debug\Posle.exe
-D:\C#\First\Posle\obj\Debug\Posle.pdb
-D:\C#\First\Posle\obj\Debug\Posle.csprojResolveAssemblyReference.cache

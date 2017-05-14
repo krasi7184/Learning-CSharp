@@ -1,0 +1,6 @@
+D:\C#\CS Fundamentals\Birds and Feathers\bin\Debug\Birds and Feathers.exe.config
+D:\C#\CS Fundamentals\Birds and Feathers\bin\Debug\Birds and Feathers.exe
+D:\C#\CS Fundamentals\Birds and Feathers\bin\Debug\Birds and Feathers.pdb
+D:\C#\CS Fundamentals\Birds and Feathers\obj\Debug\Birds and Feathers.csprojResolveAssemblyReference.cache
+D:\C#\CS Fundamentals\Birds and Feathers\obj\Debug\Birds and Feathers.exe
+D:\C#\CS Fundamentals\Birds and Feathers\obj\Debug\Birds and Feathers.pdb

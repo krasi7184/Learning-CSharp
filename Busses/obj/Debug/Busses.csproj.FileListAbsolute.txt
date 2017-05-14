@@ -4,3 +4,6 @@ D:\C#\First\Busses\bin\Debug\Busses.exe
 D:\C#\First\Busses\bin\Debug\Busses.pdb
 D:\C#\First\Busses\obj\Debug\Busses.exe
 D:\C#\First\Busses\obj\Debug\Busses.pdb
+D:\C#\CS Fundamentals\Busses\bin\Debug\Busses.exe.config
+D:\C#\CS Fundamentals\Busses\obj\Debug\Busses.exe
+D:\C#\CS Fundamentals\Busses\obj\Debug\Busses.pdb

@@ -1,0 +1,6 @@
+D:\C#\CS Fundamentals\MixingNumbers\bin\Debug\MixingNumbers.exe.config
+D:\C#\CS Fundamentals\MixingNumbers\bin\Debug\MixingNumbers.exe
+D:\C#\CS Fundamentals\MixingNumbers\bin\Debug\MixingNumbers.pdb
+D:\C#\CS Fundamentals\MixingNumbers\obj\Debug\MixingNumbers.csprojResolveAssemblyReference.cache
+D:\C#\CS Fundamentals\MixingNumbers\obj\Debug\MixingNumbers.exe
+D:\C#\CS Fundamentals\MixingNumbers\obj\Debug\MixingNumbers.pdb

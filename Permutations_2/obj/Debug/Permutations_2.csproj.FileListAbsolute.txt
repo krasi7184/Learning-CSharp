@@ -1,0 +1,6 @@
+D:\C#\CS Fundamentals\Permutations_2\bin\Debug\Permutations_2.exe.config
+D:\C#\CS Fundamentals\Permutations_2\bin\Debug\Permutations_2.exe
+D:\C#\CS Fundamentals\Permutations_2\bin\Debug\Permutations_2.pdb
+D:\C#\CS Fundamentals\Permutations_2\obj\Debug\Permutations_2.csprojResolveAssemblyReference.cache
+D:\C#\CS Fundamentals\Permutations_2\obj\Debug\Permutations_2.exe
+D:\C#\CS Fundamentals\Permutations_2\obj\Debug\Permutations_2.pdb

@@ -1,0 +1,12 @@
+D:\C#\First\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\C#\First\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\C#\First\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\C#\CS Fundamentals\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\C#\CS Fundamentals\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\C#\CS Fundamentals\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\C#\CS Fundamentals\RemoveElementsFromArray\bin\Debug\ConsoleApplication1.exe.config
+D:\C#\CS Fundamentals\RemoveElementsFromArray\obj\Debug\ConsoleApplication1.exe
+D:\C#\CS Fundamentals\RemoveElementsFromArray\obj\Debug\ConsoleApplication1.pdb
+D:\C#\CS Fundamentals\RemoveElementsFromArray\bin\Debug\ConsoleApplication1.exe
+D:\C#\CS Fundamentals\RemoveElementsFromArray\bin\Debug\ConsoleApplication1.pdb
+D:\C#\CS Fundamentals\RemoveElementsFromArray\obj\Debug\RemoveElementsFromArray.csprojResolveAssemblyReference.cache

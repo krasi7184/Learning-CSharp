@@ -1,0 +1,1 @@
+D:\C#\CS Fundamentals\Mythical Numbers\bin\Debug\Mythical Numbers.exe.config

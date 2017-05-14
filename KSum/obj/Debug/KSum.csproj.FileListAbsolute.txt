@@ -1,0 +1,9 @@
+D:\C#\CS Fundamentals\double_float\bin\Debug\double_float.exe.config
+D:\C#\CS Fundamentals\double_float\obj\Debug\double_float.exe
+D:\C#\CS Fundamentals\double_float\obj\Debug\double_float.pdb
+D:\C#\CS Fundamentals\double_float\bin\Debug\double_float.exe
+D:\C#\CS Fundamentals\double_float\bin\Debug\double_float.pdb
+D:\C#\CS Fundamentals\double_float\obj\Debug\KSum.csprojResolveAssemblyReference.cache
+D:\C#\CS Fundamentals\KSum\bin\Debug\double_float.exe.config
+D:\C#\CS Fundamentals\KSum\obj\Debug\double_float.exe
+D:\C#\CS Fundamentals\KSum\obj\Debug\double_float.pdb

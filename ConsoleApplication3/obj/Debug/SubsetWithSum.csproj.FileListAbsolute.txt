@@ -1,6 +1,0 @@
-D:\C#\First\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
-D:\C#\First\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
-D:\C#\First\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
-D:\C#\First\ConsoleApplication3\obj\Debug\SubsetWithSum.csprojResolveAssemblyReference.cache
-D:\C#\First\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
-D:\C#\First\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

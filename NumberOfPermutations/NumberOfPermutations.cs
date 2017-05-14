@@ -53,7 +53,6 @@ class NumberOfPermutations
             counter--;
 
         }
-        Console.WriteLine("How much? {0}",much);
     }
 }
 

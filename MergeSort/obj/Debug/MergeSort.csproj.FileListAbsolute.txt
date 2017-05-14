@@ -4,3 +4,6 @@ D:\C#\First\MergeSort\bin\Debug\MergeSort.pdb
 D:\C#\First\MergeSort\obj\Debug\MergeSort.csprojResolveAssemblyReference.cache
 D:\C#\First\MergeSort\obj\Debug\MergeSort.exe
 D:\C#\First\MergeSort\obj\Debug\MergeSort.pdb
+D:\C#\CS Fundamentals\MergeSort\bin\Debug\MergeSort.exe.config
+D:\C#\CS Fundamentals\MergeSort\obj\Debug\MergeSort.exe
+D:\C#\CS Fundamentals\MergeSort\obj\Debug\MergeSort.pdb
